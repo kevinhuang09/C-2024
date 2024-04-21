@@ -1,6 +1,6 @@
 //float input
 #include<stdio.h>
-int main(void) {
+float main(void) {
 	float weight, height, BMI;
 	printf("%s", "Enter your weight(kg):");
 	scanf_s("%f", &weight);
