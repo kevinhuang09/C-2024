@@ -1,3 +1,4 @@
+//float input
 #include<stdio.h>
 int main(void) {
 	float weight, height, BMI;
