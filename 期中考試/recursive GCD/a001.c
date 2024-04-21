@@ -1,3 +1,4 @@
+//recursive method
 #include<stdio.h>
 int findGCD(int n1, int n2);
 int main() {
